@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["Client",""],["Subscription",""]]});
+initSidebarItems({"struct":[["Client","A structure containing the client’s info that the server needs, such as:"],["Subscription","A structure to save subscription topics with QoS level."]]});

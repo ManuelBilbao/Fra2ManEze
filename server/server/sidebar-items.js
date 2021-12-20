@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["handle_client",""],["read_packets_from_client",""],["send_packets_to_client",""]],"struct":[["ClientFlags",""],["PacketThings",""],["Server",""]]});
+initSidebarItems({"fn":[["handle_client","Launchs the Client-Communicator and a function that wait for client messages in a loop."],["read_packets_from_client",""],["send_packets_to_client","Receive messages from the coordinator and send messages to client"]],"struct":[["ClientFlags",""],["PacketThings",""],["Server",""]]});

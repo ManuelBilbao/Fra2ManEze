@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["main",""]],"mod":[["client",""],["configuration",""],["coordinator",""],["packet",""],["server",""],["stacked_messages",""],["utils",""],["wildcard",""]],"static":[["SERVER_ARGS",""]]});
+initSidebarItems({"fn":[["main",""]],"mod":[["client","Client"],["configuration",""],["coordinator",""],["packet","Packet"],["server",""],["stacked_messages","Stacked Messages"],["utils",""],["wildcard",""]],"static":[["SERVER_ARGS",""]]});

@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["run_stacked_coordinator",""]]});
+initSidebarItems({"fn":[["run_stacked_coordinator","Send queued publish messages to client periodically."]]});
