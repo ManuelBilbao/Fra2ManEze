@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["DEFAULT_BUFFERED_LINES_LIMIT","The default maximum number of buffered log lines."]],"struct":[["NonBlocking","A non-blocking writer."],["NonBlockingBuilder","A builder for `NonBlocking`."],["WorkerGuard","A guard that flushes spans/events associated to a `NonBlocking` on a drop"]]});

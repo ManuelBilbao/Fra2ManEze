@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["tracing_appender"] = [{"text":"impl <a class=\"trait\" href=\"tracing_subscriber/fmt/writer/trait.MakeWriter.html\" title=\"trait tracing_subscriber::fmt::writer::MakeWriter\">MakeWriter</a> for <a class=\"struct\" href=\"tracing_appender/non_blocking/struct.NonBlocking.html\" title=\"struct tracing_appender::non_blocking::NonBlocking\">NonBlocking</a>","synthetic":false,"types":["tracing_appender::non_blocking::NonBlocking"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
